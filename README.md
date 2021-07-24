@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @savitasanadi4868
+- 👋 Hi, I’m Savita Sanadi
 - 👀 I’m interested in Developments in python, Django and Javascript
 - 🌱 I’m currently learning 4th semester M.Tech
 - 💞️ I’m looking to collaborate on ...Web development, software developer
